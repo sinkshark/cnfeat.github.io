@@ -1,27 +1,27 @@
 # Site settings
-title: 笨方法学写作
+title: 大鲨鱼的海底世界
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "陈素封|笨方法学写作"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.sinkshark.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: " 黄欢"
+  email: 2681873307@qq.com
+  bio: "大鲨鱼的海底世界"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
 favicon: img/favicon.ico
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+#douban_username:  cnfeat
+#twitter_username: feat
+#github_username: cnfeat
+#facebook_username: 
+#weibo_username: cnfeat 
+#zhihu_username: feat
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -42,21 +42,21 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "黄欢"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : disqus
-  duoshuo :
-    short_name : cnfeat
-  disqus :
-      short_name : cnfeat
+#comments :
+#  provider : disqus
+ # duoshuo :
+ #   short_name : cnfeat
+ # disqus :
+  #    short_name : cnfeat
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80884545-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#google_analytics: UA-80884545-1
+#google_verify:
+## https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:
 
 # Links to include in footer navigation
