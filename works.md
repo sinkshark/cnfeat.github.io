@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MAN"
-description: "深厚的内功远远大于精妙的招式 "
+description: "深厚的内功远远大于精妙的招式"
 header-img: "img/semantic.jpg"
 ---
 
