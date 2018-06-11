@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "MAN"
 description: "深厚的内功远远大于精妙的招式 "
 header-img: "img/semantic.jpg"
 ---
