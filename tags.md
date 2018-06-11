@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TAGS"
-description: "哈哈，你找到了我的文章基因库"  
+description: "哈哈，你找到了我的文库基因"  
 header-img: "img/Red-Brown.jpg"  
 ---
 
