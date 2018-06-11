@@ -6,10 +6,6 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="" align="center"></p>
-</center>
-
 我是陈素封，持续写作者，终身学习者，我的产品列表如下：
 
 
