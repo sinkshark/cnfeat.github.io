@@ -21,6 +21,8 @@ header-img: "img/green.jpg"
 - 感觉说话聊天挺重要的，与人相处方面，需要多交朋友
 - 自律
 - 执行力
+- 每天早晨煮两个鸡蛋
+
 
 ### 艺术就是爆炸
 `singer`     `stronger`    `English`  
