@@ -13,6 +13,6 @@ header-img: "img/green.jpg"
 </iframe>
 
 <div align=center>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://url.cn/5KjJoae">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://y.qq.com/portal/player.html">
 </iframe>
 </div>
