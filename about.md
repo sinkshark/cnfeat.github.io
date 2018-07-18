@@ -17,5 +17,5 @@ header-img: "img/green.jpg"
 </iframe>
 
 <video id="video" controls="" preload="none">
-  <source id="mp4" src="http://www.365yg.com/a6552465286295978499/#mid=67523520681" type="video/mp4">
+  <source id="mp4" src="https://i.y.qq.com/v8/playsong.html?songid=212606735&source=yqq#wechat_redirect" type="video/mp4">
 </video>
