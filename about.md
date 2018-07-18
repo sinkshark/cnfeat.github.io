@@ -23,8 +23,8 @@ header-img: "img/green.jpg"
 - 执行力
 
 ### 艺术就是爆炸
-`singer`     `stronger`     `English`  
-`dancer`     `author`       `Photoshop`
+`singer`   `     `  `stronger`  `    `   `English`  
+`dancer`   `     `  `author`    `    `    `Photoshop`
 
 ### My Freestyle
 - 在擅长的领域做到极致，是普通人为数不多的捷径
