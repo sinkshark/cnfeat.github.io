@@ -5,9 +5,9 @@ description: "待更改"
 header-img: "img/green.jpg"
 ---
 <iframe
-    width="1500"
+    width="1000"
     height="800"
-    src="http://www.365yg.com/a6578150979382805005/#mid=59407823556"
+    src="http://www.365yg.com/a6552465286295978499/#mid=67523520681"
     frameborder="0"
     allowfullscreen>
 </iframe>
