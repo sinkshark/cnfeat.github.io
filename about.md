@@ -32,6 +32,8 @@ header-img: "img/green.jpg"
 `singer`     `stronger`    `English`  
 `dancer`     `author`      `Photoshop`
 
+### My Career Planning
+
 ### My Freestyle
 - 懂得时间管理，让生活更有条理，你将会更具幸福感
 - 早睡早起，有益身体
