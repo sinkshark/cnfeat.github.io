@@ -32,7 +32,13 @@ header-img: "img/green.jpg"
 `singer`     `stronger`    `English`  
 `dancer`     `author`      `Photoshop`
 
-### My Career Planning
+### My Career Planning  
+（设想）  
+- 小学语文老师
+- 初中语文老师
+- 编程老师
+- 英语
+- 心理学研究生
 
 ### My Freestyle
 - 懂得时间管理，让生活更有条理，你将会更具幸福感
