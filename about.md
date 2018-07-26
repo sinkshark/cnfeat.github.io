@@ -41,6 +41,7 @@ header-img: "img/green.jpg"
 - 心理学研究生
 
 ### My Freestyle
+- 终身学习的时代
 - 要懂得生活
 - 做饭炒菜
 - 朋友
