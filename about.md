@@ -41,6 +41,7 @@ header-img: "img/green.jpg"
 - 心理学研究生
 
 ### My Freestyle
+- 要懂得生活
 - 做饭炒菜
 - 朋友
 - 冷静思考分析总结反思--吾日三省
