@@ -1,16 +1,16 @@
 # Site settings
-title: "起风了"
+title: "已是百毒不侵，又何惧大雨淋漓"
 header-img: "img/Xacebook.jpg"
-tagline: ""  
-description: ""  
+tagline: ""
+description: ""
 baseurl: ""
-url: "http://www.sinkshark.com"  
+url: "http://www.sinkshark.com"
 
 # About/contact
-owner: 
+owner:
   name: "黄欢"
   email: 2681873307@qq.com
-  bio: "起风了"
+  bio: "已是百毒不侵，又何惧大雨淋漓"
 
 # Data
 gavatar: img/favicon.ico
@@ -19,13 +19,13 @@ favicon: img/favicon.ico
 #douban_username:  cnfeat
 #twitter_username: feat
 #github_username: cnfeat
-#facebook_username: 
-#weibo_username: cnfeat 
+#facebook_username:
+#weibo_username: cnfeat
 #zhihu_username: feat
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
@@ -37,7 +37,7 @@ timezone: Asia/Shanghai
 
 # Defaults for posts
 defaults:
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -45,7 +45,7 @@ defaults:
       author: "黄欢"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
+# Comments
 #comments :
 #  provider : disqus
  # duoshuo :
