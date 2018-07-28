@@ -1,5 +1,5 @@
 # Site settings
-title: "狂风绝息，大雨淋漓"
+title: "雨淋漓"
 header-img: "img/Xacebook.jpg"
 tagline: ""
 description: ""
@@ -10,7 +10,7 @@ url: "http://www.sinkshark.com"
 owner:
   name: "黄欢"
   email: 2681873307@qq.com
-  bio: "已是百毒不侵，又何惧大雨淋漓"
+  bio: "雨淋漓"
 
 # Data
 gavatar: img/favicon.ico
@@ -50,8 +50,8 @@ defaults:
 #  provider : disqus
  # duoshuo :
  #   short_name : cnfeat
- # disqus :
-  #    short_name : cnfeat
+# disqus :
+#    short_name : cnfeat
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics: UA-80884545-1
