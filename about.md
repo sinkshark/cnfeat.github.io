@@ -41,6 +41,7 @@ header-img: "img/green.jpg"
 - 英语
 - 心理学研究生
 - 大学心理学老师
+- 心理咨询（心理学）公司
 
 ### My Freestyle
 - 很多时候选择比努力更重要
