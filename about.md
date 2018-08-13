@@ -35,7 +35,7 @@ header-img: "img/green.jpg"
 `dancer`     `author`      `Photoshop`
 
 ### My Career Planning  
-**此内容设涉及隐私，已经隐藏**
+**此内容设涉及隐私，已经隐藏**  
 <!-- （设想）  
 - 小学语文老师
 - 初中语文老师
