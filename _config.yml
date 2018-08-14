@@ -6,11 +6,11 @@ description: ""
 baseurl: ""
 url: "http://www.sinkshark.com"
 
+bio: "清晨瑟瑟的冷风"
 # About/contact
 owner:
   name: "黄欢"
   email: 2681873307@qq.com
-  bio: "清晨瑟瑟的冷风"
 
 # Data
 gavatar: img/favicon.ico
