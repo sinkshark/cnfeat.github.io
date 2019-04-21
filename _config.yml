@@ -9,7 +9,7 @@ url: "http://www.sinkshark.com"
 bio: "清晨瑟瑟的冷风"
 # About/contact
 owner:
-  name: "Jane"
+  name: "JANE"
   email: 2681873307@qq.com
 
 # Data
@@ -44,7 +44,7 @@ defaults:
       layout: "post"
       author: "Jane"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
- 
+
 # Comments
 #comments :
 #  provider : disqus
